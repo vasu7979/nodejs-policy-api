@@ -25,7 +25,7 @@ This is a Node.js application developed using Express.js and MongoDB. It manages
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR_USERNAME/policy_management.git
+git clone https://github.com/vasu7979/policy_management.git
 
 Go to the project directory:
 
